@@ -113,6 +113,8 @@ Un learning rate de 0.004 generó el mejor modelo.
 ### 4.2.4.	 
 El IOU es la variable más compleja de optimizar en train.  El valor máximo obtenido es 0.4345.
 ### 4.2.5.	 
+Para el cargue a INTU se usó el modelo [03_02_20241114_0122_VGG16_2_epocas](/03_02_20241114_0122_VGG16_2_epocas/).
+### 4.2.6.	 
 Daniel y Javier: si es posible hacer una clase extra para entender cómo optimizar este modelo, se los agradeceríamos mucho.  Siento que faltó practicar mas el tema de los bounding boxes dentro de las clases ordinarias.
 
 
