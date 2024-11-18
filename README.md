@@ -2,7 +2,7 @@
 Universidad ICESI.  
 Maestría en Ciencia de Datos.  
 Asignatura de Fundamentos de Analítica II.  
-Parcial 3: CNN clasificación y localización.
+Parcial 3: CNN clasificación y localización.  
 Integrantes: Alfredo Guevara | Álvaro Rodríguez.
 # Descripción
 Se requiere desarrollar un modelo predictivo para determinar la clasificación y localización de Pinguinos o Tortugas que aparecen en una imagen. Se le proporciona un conjunto de datos que contiene imágenes y sus anotaciones correspondientes. Su modelo debe detectar qué animal es y la ubicación en la foto.  Las métricas de evaluación para esta competencia es el IOU para la tarea de regresión de cuadro delimitador y accuracy para la tarea de clasificación de objetos.
